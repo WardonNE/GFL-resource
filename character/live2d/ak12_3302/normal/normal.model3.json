@@ -1,0 +1,36 @@
+{
+    "Version": 3,
+    "FileReferences": {
+        "Moc": "normal.moc3",
+        "Textures": [
+            "textures\/texture_00.png"
+        ],
+        "Physics": null,
+        "Motions": {
+            "Ak12": [
+                {
+                    "File": "motions\/ak12_idle.motion3.json",
+                    "FadeInTime": 0.5,
+                    "FadeOutTime": 0.5
+                }
+            ]
+        }
+    },
+    "Groups": [
+        {
+            "Target": "Parameter",
+            "Name": "EyeBlink",
+            "Ids": [
+                "ParamEyeROpen",
+                "ParamEyeLOpen"
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Name": "LipSync",
+            "Ids": [
+                "ParamMouthOpenY"
+            ]
+        }
+    ]
+}

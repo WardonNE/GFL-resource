@@ -1,0 +1,20 @@
+{
+    "Version": 3,
+    "FileReferences": {
+        "Moc": "destroy.moc3",
+        "Textures": [
+            "textures\/texture_00.png"
+        ],
+        "Physics": null,
+        "Motions": {
+            "Idle": [
+                {
+                    "File": "motions\/daiji_idle_01.motion3.json"
+                }
+            ]
+        }
+    },
+    "Groups": [],
+    "FadeInTime": 0.5,
+    "FadeOutTime": 0.5
+}

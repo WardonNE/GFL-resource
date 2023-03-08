@@ -1,0 +1,42 @@
+{
+    "Version": 3,
+    "FileReferences": {
+        "Moc": "destroy.moc3",
+        "Textures": [
+            "textures\/texture_00.png"
+        ],
+        "Physics": null,
+        "Motions": {
+            "Broken": [
+                {
+                    "File": "motions\/broken_1.motion3.json"
+                },
+                {
+                    "File": "motions\/broken_2.motion3.json"
+                },
+                {
+                    "File": "motions\/broken_3.motion3.json"
+                },
+                {
+                    "File": "motions\/broken_4.motion3.json"
+                },
+                {
+                    "File": "motions\/broken_5.motion3.json"
+                }
+            ],
+            "Idle": [
+                {
+                    "File": "motions\/daiji_idle_01.motion3.json"
+                }
+            ],
+            "Wait": [
+                {
+                    "File": "motions\/wait_1.motion3.json"
+                }
+            ]
+        }
+    },
+    "Groups": [],
+    "FadeInTime": 0.5,
+    "FadeOutTime": 0.5
+}
