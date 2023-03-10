@@ -29237,42 +29237,6 @@
         ]
     },
     {
-        "code": "XM3Mod",
-        "name": "XM3",
-        "avatar": {
-            "normal": "xm3mod\/normal.png",
-            "destroy": "xm3mod\/broken.png"
-        },
-        "rank": null,
-        "type": null,
-        "launch_time": "2017-12-21",
-        "skins": [
-            {
-                "code": "XM3Mod",
-                "name": "默认立绘",
-                "avatar": {
-                    "normal": "xm3mod\/normal.png",
-                    "destroy": "xm3mod\/broken.png"
-                },
-                "image": {
-                    "normal": "xm3mod\/pic_XM3Mod_HD.png",
-                    "destroy": "xm3mod\/pic_XM3Mod_HD.png"
-                },
-                "class": 0,
-                "spine": {
-                    "normal": {
-                        "skel": "xm3mod\/XM3Mod.skel",
-                        "atlas": "xm3mod\/XM3Mod.atlas"
-                    },
-                    "rest": {
-                        "skel": "xm3mod\/XM3Mod.skel",
-                        "atlas": "xm3mod\/XM3Mod.atlas"
-                    }
-                }
-            }
-        ]
-    },
-    {
         "code": "Minosu",
         "name": "米诺斯",
         "avatar": {
