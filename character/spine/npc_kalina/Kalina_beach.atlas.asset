@@ -1,0 +1,293 @@
+
+Kalina_beach.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rhand
+  rotate: false
+  xy: 458, 54
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+armL1
+  rotate: false
+  xy: 303, 62
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+armL2
+  rotate: false
+  xy: 486, 66
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+armL3
+  rotate: true
+  xy: 228, 18
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+armR1
+  rotate: false
+  xy: 170, 14
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+armR2
+  rotate: false
+  xy: 195, 21
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+armR3
+  rotate: false
+  xy: 328, 62
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 486, 87
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+bodyS
+  rotate: false
+  xy: 853, 99
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+ebiL1
+  rotate: false
+  xy: 349, 63
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+ebiL2
+  rotate: true
+  xy: 508, 69
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+ebiL3
+  rotate: true
+  xy: 434, 59
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+ebiLL1
+  rotate: false
+  xy: 709, 93
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+ebiLL2
+  rotate: false
+  xy: 72, 4
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+ebiM
+  rotate: false
+  xy: 195, 69
+  size: 77, 57
+  orig: 77, 57
+  offset: 0, 0
+  index: -1
+ebiM2
+  rotate: false
+  xy: 434, 74
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+ebiR1
+  rotate: false
+  xy: 694, 94
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+ebiR2
+  rotate: false
+  xy: 644, 96
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+ebiT
+  rotate: false
+  xy: 106, 9
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+ebiTL
+  rotate: true
+  xy: 884, 99
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+ebiTR
+  rotate: false
+  xy: 946, 100
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+eyeL
+  rotate: false
+  xy: 1005, 97
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+eyeL5
+  rotate: true
+  xy: 274, 68
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+eyeR
+  rotate: true
+  xy: 915, 99
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+eyeR5
+  rotate: true
+  xy: 976, 101
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 366, 60
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+hairB
+  rotate: false
+  xy: 2, 41
+  size: 95, 85
+  orig: 95, 85
+  offset: 0, 0
+  index: -1
+hairBB
+  rotate: true
+  xy: 99, 42
+  size: 84, 94
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+hairFL
+  rotate: true
+  xy: 2, 7
+  size: 32, 68
+  orig: 32, 68
+  offset: 0, 0
+  index: -1
+hairFM
+  rotate: true
+  xy: 541, 94
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+hairFR
+  rotate: true
+  xy: 274, 85
+  size: 41, 90
+  orig: 41, 90
+  offset: 0, 0
+  index: -1
+hairFR2
+  rotate: true
+  xy: 595, 92
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+hairML
+  rotate: true
+  xy: 694, 107
+  size: 19, 56
+  orig: 19, 56
+  offset: 0, 0
+  index: -1
+hairS
+  rotate: false
+  xy: 170, 2
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+hairT
+  rotate: false
+  xy: 195, 43
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+legL1
+  rotate: true
+  xy: 820, 100
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+legL2
+  rotate: true
+  xy: 136, 13
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+legR1
+  rotate: true
+  xy: 752, 101
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+legR2
+  rotate: true
+  xy: 786, 100
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 262, 59
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 136, 2
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
